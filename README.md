@@ -290,7 +290,6 @@ node sell --token_address <ADDRESS_TOKEN> --percentage <SELL_PERCENTAGE>
 
 ### If you think this project is useful, please give us a star🌟, it will help us a lot.
 
-### Discord channel: https://discord.gg/hFhQeBCqWX
 ### It is a work in progress, if you have any suggestions or any problems, please let us know!
 
 ### Stay tuned for the updates.🤖_**
